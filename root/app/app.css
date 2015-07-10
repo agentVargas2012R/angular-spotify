@@ -1,0 +1,68 @@
+/* app css stylesheet */
+legend {
+    margin:3px;
+    text-align:center;
+    width:100%
+    border-line: solid;
+    border: red;
+}
+
+legend a:hover {
+    color: black;
+}
+
+span.glyphicon-heart {
+    font-size: 1.4em;
+    cursor:pointer;
+}
+
+span.glyphicon-star {
+    font-size: 1.2em;
+}
+
+.highlight {
+	border: none;
+	border-color: #222;
+}
+
+.space {
+    padding-left: 15px;
+}
+
+.hide {
+    display:none;
+}
+
+.spotify-cover {
+    width:450px !important;
+    height:450px !important;
+}
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
