@@ -988,6 +988,6 @@ $scope.login = function () {
 
 
 ### Brought to you by
-Intellipoint Corporation - http://www.intellipointcorp.net/
-UXDevSummit - http://uxdevsummit.com/
+ - Intellipoint Corporation: http://www.intellipointcorp.net/
+ - UXDevSummit: http://uxdevsummit.com/
 
