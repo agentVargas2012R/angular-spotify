@@ -302,6 +302,8 @@ For more information on AngularJS please check out http://angularjs.org/
 [http-server]: https://github.com/nodeapps/http-server
 [angular-spotify]: https://github.com/eddiemoore/angular-spotify
 
+# angular-spotify — https://github.com/eddiemoore/angular-spotify
+
 angular service to connect to the [Spotify Web API](https://developer.spotify.com/web-api/)
 
 angular-spotify makes heavy use of promises throughout the service
